@@ -23,6 +23,14 @@ One assistant that knows my day: my money, my health goals and my schedule. It s
 - **Private by design.** My data stays on hardware I control.
 - **Useful first.** Practical daily help matters more than flashy demos.
 
+## Screenshots
+
+| Home | Health |
+|---|---|
+| ![Home screen](screenshots/01-home.png) | ![Health screen](screenshots/02-health.png) |
+
+*Captured from the early build with no data connected, so the tiles are empty.*
+
 ## Status
 
 In development, as a personal project.
